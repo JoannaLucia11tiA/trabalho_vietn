@@ -156,9 +156,11 @@ div.pontos{
 }
 div.devs{
     display: flex;
-    justify-content: space-between;
-    gap: 12rem;
     
+    
+}
+div.duo1{
+    margin-right: 9.5rem;
 }
 div.devs img{
     width: 218.6px;
@@ -283,11 +285,4 @@ div.devs a{
    color: #FFF;
    text-decoration: none;
     
-}
-.faixa {
-    width: 100vw; /* Ocupa a largura total da viewport */
-    height: 50px; /* Altura fixa para a faixa */
-    background-color: #C30108; /* Cor de fundo para a faixa */
-    position: relative;
-    z-index: 1;
 }
